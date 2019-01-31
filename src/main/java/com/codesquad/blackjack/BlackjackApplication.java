@@ -11,5 +11,6 @@ public class BlackjackApplication {
 	}
 
 	//test1 만듬
+	//또만들어 구현막함 같이 쌰바샤바
 }
 
